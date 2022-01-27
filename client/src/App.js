@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div className="container">
       <h1>Create Post</h1>
+      <h2>hello there</h2>
       <PostCreate />
       <hr />
       <h1>Posts</h1>
